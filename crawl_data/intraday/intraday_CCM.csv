@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+CCM,10:20:06,Buy Up,2100.0,31500.0,-100.0
+CCM,10:19:53,Buy Up,100.0,31600.0,0.0

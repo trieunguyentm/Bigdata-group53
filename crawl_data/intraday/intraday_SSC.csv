@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SSC,11:28:23,Buy Up,100.0,36600.0,-100.0
+SSC,09:20:22,Buy Up,100.0,36700.0,700.0
+SSC,09:20:22,Buy Up,700.0,36000.0,0.0

@@ -1,0 +1,2 @@
+ticker,time,orderType,volume,price,prevPriceChange
+TDS,10:15:40,Sell Down,800.0,10000.0,0.0

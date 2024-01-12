@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+ABI,10:43:45,Buy Up,200.0,25800.0,300.0
+ABI,10:20:43,Sell Down,400.0,25500.0,-300.0
+ABI,09:59:59,Buy Up,200.0,25800.0,100.0
+ABI,09:52:31,Buy Up,300.0,25700.0,0.0
+ABI,09:50:45,Buy Up,500.0,25700.0,0.0

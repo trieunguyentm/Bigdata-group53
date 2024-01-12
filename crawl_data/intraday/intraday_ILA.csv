@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+ILA,10:11:37,Buy Up,200.0,3800.0,0.0
+ILA,09:36:37,Sell Down,200.0,3800.0,0.0
+ILA,09:31:17,Sell Down,800.0,3800.0,0.0
+ILA,09:28:13,Buy Up,100.0,3800.0,0.0
+ILA,09:17:55,Buy Up,400.0,3800.0,0.0

@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+MVB,11:03:58,Buy Up,100.0,20700.0,0.0
+MVB,11:01:58,Buy Up,700.0,20700.0,100.0
+MVB,11:01:34,Buy Up,200.0,20600.0,0.0

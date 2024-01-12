@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PWA,09:47:16,Buy Up,100.0,3700.0,0.0
+PWA,09:15:01,Buy Up,2000.0,3700.0,0.0

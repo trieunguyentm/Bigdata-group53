@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+UNI,10:29:35,Buy Up,100.0,7900.0,100.0
+UNI,10:26:45,Buy Up,100.0,7800.0,0.0
+UNI,10:11:35,Sell Down,100.0,7800.0,-100.0
+UNI,09:00:10,Buy Up,500.0,7900.0,0.0

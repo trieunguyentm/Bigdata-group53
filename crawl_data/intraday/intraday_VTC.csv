@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VTC,10:09:49,Buy Up,800.0,8900.0,0.0
+VTC,10:09:20,Buy Up,200.0,8900.0,-100.0
+VTC,10:07:28,Buy Up,300.0,9000.0,0.0
+VTC,10:07:15,Buy Up,700.0,9000.0,0.0
+VTC,10:05:01,Buy Up,1000.0,9000.0,0.0

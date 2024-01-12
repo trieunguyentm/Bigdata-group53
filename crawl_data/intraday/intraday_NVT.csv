@@ -1,0 +1,11 @@
+ticker,time,orderType,volume,price,prevPriceChange
+NVT,10:20:18,Sell Down,6000.0,7450.0,-10.0
+NVT,10:20:18,Buy Up,1000.0,7460.0,10.0
+NVT,10:13:56,Sell Down,11400.0,7450.0,-10.0
+NVT,10:13:56,Sell Down,400.0,7460.0,-40.0
+NVT,10:13:56,Sell Down,100.0,7500.0,0.0
+NVT,10:12:59,Sell Down,19900.0,7500.0,-10.0
+NVT,10:12:59,Sell Down,4700.0,7510.0,-300.0
+NVT,10:12:46,Buy Up,200.0,7810.0,0.0
+NVT,09:43:24,Buy Up,100.0,7810.0,0.0
+NVT,09:42:54,Buy Up,100.0,7810.0,0.0

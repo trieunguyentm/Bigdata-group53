@@ -1,0 +1,10 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SGR,10:21:31,Buy Up,500.0,19500.0,0.0
+SGR,10:21:31,Buy Up,1400.0,19500.0,0.0
+SGR,10:10:45,Sell Down,300.0,19500.0,0.0
+SGR,09:59:52,Sell Down,1900.0,19500.0,0.0
+SGR,09:58:22,Sell Down,600.0,19500.0,0.0
+SGR,09:56:41,Sell Down,200.0,19500.0,0.0
+SGR,09:53:22,Buy Up,500.0,19500.0,0.0
+SGR,09:50:20,Buy Up,200.0,19500.0,0.0
+SGR,09:15:33,Buy Up,800.0,19500.0,0.0

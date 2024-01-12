@@ -1,0 +1,2 @@
+ticker,time,orderType,volume,price,prevPriceChange
+EBS,11:00:47,Buy Up,3000.0,11600.0,0.0

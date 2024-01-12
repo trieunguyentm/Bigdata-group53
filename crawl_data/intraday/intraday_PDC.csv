@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PDC,09:30:44,Buy Up,100.0,5800.0,0.0
+PDC,09:14:08,Buy Up,300.0,5800.0,0.0
+PDC,09:12:39,Buy Up,100.0,5800.0,0.0
+PDC,09:12:05,Buy Up,700.0,5800.0,0.0
+PDC,09:10:35,Buy Up,100.0,5800.0,0.0
+PDC,09:10:15,Buy Up,300.0,5800.0,0.0
+PDC,09:06:11,Buy Up,200.0,5800.0,0.0

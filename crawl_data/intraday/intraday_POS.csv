@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+POS,13:00:08,Sell Down,100.0,12500.0,0.0
+POS,11:26:11,Buy Up,500.0,12500.0,0.0
+POS,11:26:01,Sell Down,500.0,12500.0,0.0
+POS,11:16:58,Buy Up,1000.0,12500.0,0.0
+POS,11:09:31,Buy Up,1000.0,12500.0,-100.0
+POS,10:13:25,Buy Up,100.0,12600.0,0.0
+POS,09:45:58,Buy Up,300.0,12600.0,0.0

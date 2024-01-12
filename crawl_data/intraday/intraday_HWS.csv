@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HWS,11:02:48,Buy Up,500.0,14600.0,0.0
+HWS,10:46:45,Buy Up,2000.0,14600.0,100.0
+HWS,10:41:19,Sell Down,2700.0,14500.0,0.0

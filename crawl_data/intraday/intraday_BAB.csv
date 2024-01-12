@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BAB,10:24:22,Sell Down,200.0,12800.0,0.0
+BAB,09:48:22,Sell Down,700.0,12800.0,0.0
+BAB,09:27:10,Sell Down,800.0,12800.0,-100.0
+BAB,09:13:03,Buy Up,100.0,12900.0,100.0
+BAB,09:03:41,Sell Down,200.0,12800.0,0.0

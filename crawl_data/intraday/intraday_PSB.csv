@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PSB,13:24:29,Buy Up,500.0,6100.0,0.0
+PSB,13:15:59,Buy Up,3500.0,6100.0,200.0
+PSB,10:39:16,Sell Down,900.0,5900.0,0.0
+PSB,09:18:03,Buy Up,900.0,5900.0,0.0

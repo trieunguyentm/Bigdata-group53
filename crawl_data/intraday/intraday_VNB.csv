@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VNB,11:15:35,Sell Down,500.0,9100.0,0.0
+VNB,10:53:40,Buy Up,300.0,9100.0,0.0
+VNB,10:42:51,Buy Up,100.0,9100.0,100.0
+VNB,10:38:17,Sell Down,6900.0,9000.0,-100.0
+VNB,10:37:10,Sell Down,6000.0,9100.0,0.0
+VNB,09:46:16,Sell Down,1200.0,9100.0,0.0
+VNB,09:19:20,Sell Down,100.0,9100.0,-100.0
+VNB,09:16:38,Buy Up,100.0,9200.0,0.0

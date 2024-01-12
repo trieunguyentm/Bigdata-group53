@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+GMH,10:32:41,Buy Up,3200.0,9860.0,410.0
+GMH,10:13:43,Buy Up,200.0,9450.0,50.0
+GMH,10:00:52,Sell Down,1600.0,9400.0,-10.0
+GMH,10:00:52,Buy Up,100.0,9410.0,-90.0
+GMH,09:55:51,Buy Up,2000.0,9500.0,0.0

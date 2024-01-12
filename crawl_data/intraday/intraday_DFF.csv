@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+DFF,09:03:47,Buy Up,500.0,9900.0,0.0
+DFF,09:03:03,Buy Up,1500.0,9900.0,0.0
+DFF,09:02:22,Buy Up,2500.0,9900.0,0.0

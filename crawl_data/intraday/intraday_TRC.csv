@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+TRC,11:05:13,Sell Down,100.0,30100.0,50.0
+TRC,10:36:52,Sell Down,300.0,30050.0,0.0

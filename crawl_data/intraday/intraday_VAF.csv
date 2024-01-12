@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VAF,11:06:44,Buy Up,300.0,14400.0,-100.0
+VAF,10:30:57,Buy Up,100.0,14500.0,1100.0
+VAF,10:30:19,Sell Down,100.0,13400.0,-2000.0
+VAF,09:20:50,Buy Up,100.0,15400.0,1000.0
+VAF,09:20:50,Buy Up,100.0,14400.0,100.0
+VAF,09:20:50,Buy Up,800.0,14300.0,0.0

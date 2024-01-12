@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HAN,10:19:35,Sell Down,3500.0,10400.0,-100.0
+HAN,10:18:32,Buy Up,200.0,10500.0,100.0
+HAN,10:18:02,Sell Down,600.0,10400.0,0.0
+HAN,10:15:20,Buy Up,100.0,10400.0,0.0
+HAN,10:14:33,Buy Up,200.0,10400.0,100.0
+HAN,09:22:41,Buy Up,100.0,10300.0,0.0

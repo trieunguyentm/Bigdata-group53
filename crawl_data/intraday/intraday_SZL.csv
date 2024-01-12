@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SZL,09:47:44,Sell Down,3000.0,37200.0,0.0
+SZL,09:34:40,Sell Down,900.0,37200.0,0.0
+SZL,09:34:16,Sell Down,500.0,37200.0,0.0
+SZL,09:27:52,Sell Down,300.0,37200.0,0.0

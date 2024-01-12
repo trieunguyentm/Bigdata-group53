@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VGG,11:29:27,Buy Up,400.0,35000.0,0.0
+VGG,11:14:51,Buy Up,200.0,35000.0,0.0
+VGG,11:14:31,Sell Down,600.0,35000.0,0.0
+VGG,11:13:57,Sell Down,4400.0,35000.0,0.0
+VGG,11:07:46,Buy Up,800.0,35000.0,0.0
+VGG,10:59:25,Buy Up,4000.0,35000.0,0.0
+VGG,10:48:46,Buy Up,3300.0,35000.0,0.0

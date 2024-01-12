@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+CNC,11:28:25,Buy Up,200.0,28900.0,-100.0
+CNC,09:34:21,Buy Up,100.0,29000.0,200.0
+CNC,09:32:28,Sell Down,100.0,28800.0,0.0

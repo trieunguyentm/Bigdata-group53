@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+NNC,13:00:03,Sell Down,800.0,19300.0,-100.0
+NNC,10:52:20,Buy Up,100.0,19400.0,200.0
+NNC,10:25:51,Sell Down,100.0,19200.0,0.0
+NNC,10:25:51,Sell Down,600.0,19200.0,0.0
+NNC,10:25:51,Sell Down,600.0,19200.0,150.0
+NNC,09:28:33,Sell Down,100.0,19050.0,0.0

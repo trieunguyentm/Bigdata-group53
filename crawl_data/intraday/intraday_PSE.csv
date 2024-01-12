@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PSE,11:14:40,Sell Down,500.0,10300.0,0.0
+PSE,10:42:14,Sell Down,100.0,10300.0,-100.0
+PSE,09:54:29,Buy Up,500.0,10400.0,0.0
+PSE,09:52:30,Buy Up,500.0,10400.0,0.0
+PSE,09:44:12,Buy Up,1000.0,10400.0,0.0
+PSE,09:43:21,Buy Up,500.0,10400.0,0.0
+PSE,09:40:44,Buy Up,500.0,10400.0,0.0

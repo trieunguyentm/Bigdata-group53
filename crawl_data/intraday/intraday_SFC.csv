@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SFC,11:03:36,Buy Up,300.0,24900.0,0.0
+SFC,10:03:45,Buy Up,200.0,24900.0,0.0
+SFC,09:53:20,Buy Up,500.0,24900.0,-100.0
+SFC,09:15:01,,1000.0,25000.0,0.0

@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BST,11:03:14,Buy Up,100.0,17000.0,-100.0
+BST,11:02:25,Sell Down,100.0,17100.0,-300.0
+BST,11:00:57,Sell Down,100.0,17400.0,-1100.0
+BST,10:05:05,Buy Up,100.0,18500.0,0.0

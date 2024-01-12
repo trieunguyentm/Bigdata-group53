@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PTI,09:54:16,Buy Up,300.0,37000.0,200.0
+PTI,09:37:26,Sell Down,100.0,36800.0,0.0
+PTI,09:37:04,Sell Down,100.0,36800.0,0.0
+PTI,09:35:36,Sell Down,100.0,36800.0,-100.0
+PTI,09:34:33,Buy Up,100.0,36900.0,-100.0
+PTI,09:27:22,Buy Up,200.0,37000.0,0.0
+PTI,09:24:36,Sell Down,300.0,37000.0,0.0
+PTI,09:20:13,Sell Down,3200.0,37000.0,0.0

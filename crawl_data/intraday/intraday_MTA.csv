@@ -1,0 +1,10 @@
+ticker,time,orderType,volume,price,prevPriceChange
+MTA,10:50:20,Buy Up,500.0,3600.0,0.0
+MTA,10:14:03,Sell Down,500.0,3600.0,0.0
+MTA,09:40:02,Sell Down,1000.0,3600.0,0.0
+MTA,09:29:21,Sell Down,1000.0,3600.0,-100.0
+MTA,09:17:02,Sell Down,100.0,3700.0,0.0
+MTA,09:16:43,Sell Down,300.0,3700.0,0.0
+MTA,09:15:48,Sell Down,100.0,3700.0,0.0
+MTA,09:05:50,Sell Down,500.0,3700.0,0.0
+MTA,09:03:49,Sell Down,500.0,3700.0,0.0

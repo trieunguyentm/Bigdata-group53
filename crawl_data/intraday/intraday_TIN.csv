@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+TIN,10:36:02,Buy Up,2400.0,10200.0,100.0
+TIN,10:32:16,Buy Up,1100.0,10100.0,-100.0
+TIN,10:31:52,Buy Up,200.0,10200.0,-900.0
+TIN,09:00:56,Sell Down,1000.0,11100.0,0.0

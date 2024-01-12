@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HFB,11:08:52,Buy Up,200.0,10000.0,0.0
+HFB,10:29:56,Buy Up,100.0,10000.0,1600.0
+HFB,10:27:30,Sell Down,100.0,8400.0,0.0

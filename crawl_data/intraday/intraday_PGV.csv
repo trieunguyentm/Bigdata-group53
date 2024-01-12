@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PGV,10:57:08,Sell Down,400.0,23650.0,-300.0
+PGV,10:15:20,Buy Up,100.0,23950.0,300.0
+PGV,09:32:06,Buy Up,100.0,23650.0,0.0
+PGV,09:30:54,Sell Down,1000.0,23650.0,-50.0
+PGV,09:30:54,Sell Down,100.0,23700.0,-400.0
+PGV,09:15:04,,200.0,24100.0,0.0

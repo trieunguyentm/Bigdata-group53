@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+GMC,10:50:45,Buy Up,400.0,7810.0,0.0
+GMC,10:50:45,Buy Up,100.0,7810.0,0.0
+GMC,10:50:27,Buy Up,200.0,7810.0,0.0
+GMC,10:50:23,Buy Up,100.0,7810.0,0.0
+GMC,10:49:44,Sell Down,200.0,7810.0,-180.0
+GMC,10:36:07,Buy Up,100.0,7990.0,0.0

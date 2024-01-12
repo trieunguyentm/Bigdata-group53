@@ -1,0 +1,11 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VCA,11:16:56,Buy Up,900.0,8700.0,0.0
+VCA,11:14:13,Buy Up,2000.0,8700.0,0.0
+VCA,11:09:54,Sell Down,1100.0,8700.0,0.0
+VCA,11:03:35,Buy Up,1900.0,8700.0,0.0
+VCA,11:02:27,Buy Up,1000.0,8700.0,0.0
+VCA,10:57:54,Buy Up,500.0,8700.0,0.0
+VCA,10:57:54,Buy Up,800.0,8700.0,0.0
+VCA,10:35:23,Sell Down,100.0,8700.0,0.0
+VCA,10:25:11,Sell Down,100.0,8700.0,0.0
+VCA,10:06:09,Sell Down,100.0,8700.0,0.0

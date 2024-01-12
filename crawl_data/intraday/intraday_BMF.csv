@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BMF,10:02:00,Buy Up,200.0,7800.0,0.0
+BMF,09:49:11,Buy Up,100.0,7800.0,0.0
+BMF,09:45:57,Buy Up,100.0,7800.0,0.0
+BMF,09:37:55,Sell Down,100.0,7800.0,0.0
+BMF,09:35:51,Sell Down,100.0,7800.0,0.0
+BMF,09:35:28,Buy Up,100.0,7800.0,0.0
+BMF,09:35:04,Buy Up,500.0,7800.0,0.0
+BMF,09:07:39,Buy Up,500.0,7800.0,0.0

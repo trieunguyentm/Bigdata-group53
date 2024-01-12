@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SFG,11:20:06,Sell Down,100.0,8330.0,30.0
+SFG,10:39:36,Sell Down,100.0,8300.0,0.0
+SFG,10:10:52,Sell Down,100.0,8300.0,-50.0
+SFG,09:58:38,Buy Up,300.0,8350.0,0.0
+SFG,09:51:45,Buy Up,400.0,8350.0,0.0
+SFG,09:51:20,Buy Up,500.0,8350.0,0.0
+SFG,09:50:32,Sell Down,100.0,8350.0,-130.0
+SFG,09:23:03,Buy Up,100.0,8480.0,0.0

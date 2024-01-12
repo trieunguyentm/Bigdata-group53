@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SMB,10:28:53,Buy Up,100.0,37300.0,100.0
+SMB,09:40:49,Buy Up,100.0,37200.0,200.0
+SMB,09:15:23,Buy Up,200.0,37000.0,0.0
+SMB,09:15:01,,400.0,37000.0,0.0

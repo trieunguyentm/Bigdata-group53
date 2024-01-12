@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+CIP,13:00:03,Buy Up,100.0,2800.0,0.0
+CIP,09:48:06,Buy Up,100.0,2800.0,0.0
+CIP,09:30:00,Buy Up,100.0,2800.0,0.0

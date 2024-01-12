@@ -1,0 +1,2 @@
+ticker,time,orderType,volume,price,prevPriceChange
+DAT,10:12:27,Buy Up,100.0,9240.0,0.0

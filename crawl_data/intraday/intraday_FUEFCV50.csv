@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+FUEFCV50,10:17:14,Buy Up,200.0,12780.0,-820.0
+FUEFCV50,09:55:23,Buy Up,100.0,13600.0,600.0
+FUEFCV50,09:55:23,Buy Up,100.0,13000.0,0.0

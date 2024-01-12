@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+WSS,10:04:23,Sell Down,8600.0,6300.0,0.0
+WSS,10:03:07,Sell Down,400.0,6300.0,-100.0
+WSS,09:58:33,Buy Up,2000.0,6400.0,100.0
+WSS,09:42:14,Buy Up,1800.0,6300.0,0.0
+WSS,09:40:52,Buy Up,300.0,6300.0,0.0
+WSS,09:36:35,Buy Up,500.0,6300.0,0.0
+WSS,09:35:31,Buy Up,3500.0,6300.0,0.0
+WSS,09:26:10,Buy Up,100.0,6300.0,0.0

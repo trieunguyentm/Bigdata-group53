@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+CMV,09:37:48,Sell Down,500.0,8940.0,0.0
+CMV,09:31:54,Sell Down,100.0,8940.0,0.0
+CMV,09:29:55,Sell Down,300.0,8940.0,10.0
+CMV,09:29:55,Sell Down,100.0,8930.0,0.0

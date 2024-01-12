@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+WSB,10:15:33,Buy Up,600.0,49000.0,0.0
+WSB,09:43:38,Buy Up,1300.0,49000.0,0.0

@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BCF,09:26:11,Buy Up,800.0,29500.0,0.0
+BCF,09:17:10,Buy Up,500.0,29500.0,0.0

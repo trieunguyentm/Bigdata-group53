@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HND,10:06:02,Buy Up,100.0,14100.0,0.0
+HND,09:59:54,Buy Up,1000.0,14100.0,0.0
+HND,09:42:51,Buy Up,500.0,14100.0,0.0
+HND,09:07:16,Buy Up,400.0,14100.0,0.0

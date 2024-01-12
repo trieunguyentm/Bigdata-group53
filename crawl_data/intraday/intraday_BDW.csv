@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BDW,10:00:03,Buy Up,500.0,20000.0,0.0
+BDW,09:58:26,Buy Up,1100.0,20000.0,0.0

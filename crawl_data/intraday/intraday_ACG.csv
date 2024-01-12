@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+ACG,11:08:29,Buy Up,200.0,37600.0,-100.0
+ACG,10:56:19,Buy Up,100.0,37700.0,0.0
+ACG,10:21:54,Buy Up,100.0,37700.0,0.0
+ACG,10:21:35,Buy Up,200.0,37700.0,0.0
+ACG,09:38:23,Buy Up,100.0,37700.0,0.0
+ACG,09:18:30,Buy Up,1200.0,37700.0,0.0

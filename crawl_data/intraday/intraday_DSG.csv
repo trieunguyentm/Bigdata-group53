@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+DSG,09:48:45,Sell Down,500.0,4500.0,0.0
+DSG,09:47:24,Sell Down,1300.0,4500.0,0.0
+DSG,09:30:31,Buy Up,1700.0,4500.0,0.0

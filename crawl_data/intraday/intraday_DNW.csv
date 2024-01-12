@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+DNW,11:06:27,Buy Up,100.0,28000.0,100.0
+DNW,09:31:17,Sell Down,300.0,27900.0,0.0

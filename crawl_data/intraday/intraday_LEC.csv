@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+LEC,10:32:43,Sell Down,800.0,6020.0,-10.0
+LEC,10:32:43,Sell Down,200.0,6030.0,0.0

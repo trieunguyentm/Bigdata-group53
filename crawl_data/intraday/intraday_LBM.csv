@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+LBM,13:37:09,Buy Up,100.0,47900.0,350.0
+LBM,13:09:49,Sell Down,100.0,47550.0,-50.0
+LBM,10:03:21,Buy Up,100.0,47600.0,0.0
+LBM,09:55:45,Sell Down,300.0,47600.0,0.0
+LBM,09:55:45,Sell Down,100.0,47600.0,50.0
+LBM,09:20:24,Sell Down,100.0,47550.0,-450.0
+LBM,09:15:01,,100.0,48000.0,0.0

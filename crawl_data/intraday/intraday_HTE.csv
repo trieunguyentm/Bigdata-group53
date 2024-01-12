@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HTE,10:48:37,Buy Up,100.0,4200.0,200.0
+HTE,10:23:43,Sell Down,900.0,4000.0,0.0
+HTE,10:21:52,Sell Down,900.0,4000.0,-100.0
+HTE,10:19:59,Buy Up,900.0,4100.0,0.0
+HTE,10:19:42,Buy Up,5300.0,4100.0,0.0
+HTE,09:37:00,Sell Down,200.0,4100.0,0.0
+HTE,09:32:21,Buy Up,400.0,4100.0,0.0
+HTE,09:31:53,Buy Up,500.0,4100.0,0.0

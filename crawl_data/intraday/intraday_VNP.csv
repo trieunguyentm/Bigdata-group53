@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VNP,09:56:39,Buy Up,2700.0,12000.0,0.0
+VNP,09:52:55,Buy Up,100.0,12000.0,0.0
+VNP,09:52:35,Buy Up,1000.0,12000.0,0.0
+VNP,09:48:38,Buy Up,1200.0,12000.0,0.0

@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+TFC,11:18:52,Sell Down,500.0,7100.0,-100.0
+TFC,11:18:41,Sell Down,1000.0,7200.0,-100.0
+TFC,11:13:20,Sell Down,2500.0,7300.0,-100.0
+TFC,11:11:36,Sell Down,3000.0,7400.0,-100.0
+TFC,11:11:26,Buy Up,1000.0,7500.0,0.0

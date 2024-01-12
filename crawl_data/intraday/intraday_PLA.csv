@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PLA,10:27:49,Buy Up,100.0,6100.0,0.0
+PLA,09:20:47,Buy Up,100.0,6100.0,0.0

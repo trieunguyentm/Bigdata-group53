@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HU3,10:16:46,Sell Down,500.0,3600.0,200.0
+HU3,09:01:27,Sell Down,1000.0,3400.0,0.0
+HU3,09:00:04,,1000.0,3400.0,0.0

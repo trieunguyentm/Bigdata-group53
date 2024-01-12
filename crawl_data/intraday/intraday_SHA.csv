@@ -1,0 +1,6 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SHA,11:08:58,Sell Down,3500.0,4650.0,-30.0
+SHA,10:38:17,Buy Up,800.0,4680.0,0.0
+SHA,10:19:32,Buy Up,500.0,4680.0,0.0
+SHA,10:07:37,Buy Up,1000.0,4680.0,0.0
+SHA,09:54:39,Buy Up,2400.0,4680.0,0.0

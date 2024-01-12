@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+DBT,13:05:38,Sell Down,1000.0,12200.0,0.0
+DBT,13:05:38,Sell Down,400.0,12200.0,0.0
+DBT,13:00:08,Sell Down,100.0,12200.0,0.0
+DBT,13:00:08,Sell Down,100.0,12200.0,0.0
+DBT,10:25:39,Buy Up,300.0,12200.0,0.0
+DBT,10:25:39,Buy Up,3700.0,12200.0,0.0
+DBT,10:22:37,Sell Down,1300.0,12200.0,0.0

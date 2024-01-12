@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HNI,10:02:09,Buy Up,200.0,21000.0,0.0
+HNI,09:54:49,Buy Up,800.0,21000.0,100.0
+HNI,09:45:47,Buy Up,1000.0,20900.0,400.0
+HNI,09:18:42,Buy Up,400.0,20500.0,0.0

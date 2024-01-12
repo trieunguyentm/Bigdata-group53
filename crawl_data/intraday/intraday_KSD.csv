@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+KSD,09:57:09,Sell Down,800.0,3500.0,-100.0
+KSD,09:48:25,Buy Up,900.0,3600.0,0.0
+KSD,09:19:34,Buy Up,900.0,3600.0,0.0

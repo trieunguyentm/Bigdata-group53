@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VNY,11:08:40,Buy Up,300.0,6000.0,0.0
+VNY,10:39:57,Buy Up,500.0,6000.0,0.0
+VNY,10:30:13,Buy Up,500.0,6000.0,0.0
+VNY,10:10:05,Sell Down,800.0,6000.0,0.0
+VNY,09:08:04,Buy Up,100.0,6000.0,0.0
+VNY,09:05:39,Buy Up,500.0,6000.0,0.0

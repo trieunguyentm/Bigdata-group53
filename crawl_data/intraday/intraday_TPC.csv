@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+TPC,11:01:36,Buy Up,1000.0,5950.0,0.0
+TPC,11:01:36,Buy Up,500.0,5950.0,70.0
+TPC,09:17:52,Buy Up,100.0,5880.0,0.0

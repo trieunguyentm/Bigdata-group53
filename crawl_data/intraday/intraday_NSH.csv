@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+NSH,09:58:11,Buy Up,100.0,4700.0,100.0
+NSH,09:38:39,Buy Up,1000.0,4600.0,100.0
+NSH,09:37:05,Sell Down,100.0,4500.0,0.0

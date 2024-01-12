@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+KCB,11:01:58,Buy Up,100.0,7400.0,200.0
+KCB,11:01:34,Sell Down,1500.0,7200.0,-300.0
+KCB,10:15:21,Buy Up,2000.0,7500.0,0.0
+KCB,09:30:57,Buy Up,700.0,7500.0,0.0

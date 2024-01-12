@@ -1,0 +1,2 @@
+ticker,time,orderType,volume,price,prevPriceChange
+CMC,10:42:23,Buy Up,200.0,5700.0,0.0

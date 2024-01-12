@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BSA,10:10:48,Buy Up,200.0,18500.0,0.0
+BSA,10:10:16,Buy Up,100.0,18500.0,0.0
+BSA,10:10:05,Buy Up,200.0,18500.0,0.0
+BSA,10:09:59,Buy Up,2000.0,18500.0,0.0
+BSA,10:05:17,Buy Up,3200.0,18500.0,0.0
+BSA,09:48:47,Buy Up,600.0,18500.0,0.0

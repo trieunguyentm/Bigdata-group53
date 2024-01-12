@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+IFS,09:57:12,Sell Down,200.0,27800.0,0.0
+IFS,09:44:12,Sell Down,100.0,27800.0,-100.0
+IFS,09:43:59,Buy Up,200.0,27900.0,0.0

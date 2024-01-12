@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SPI,11:27:34,Buy Up,1000.0,3200.0,0.0
+SPI,10:59:46,Buy Up,1000.0,3200.0,0.0
+SPI,09:58:11,Buy Up,100.0,3200.0,200.0
+SPI,09:38:24,Sell Down,1700.0,3000.0,0.0

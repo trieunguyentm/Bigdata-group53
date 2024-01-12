@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+VMG,10:15:21,Sell Down,200.0,3200.0,0.0
+VMG,09:56:33,Sell Down,300.0,3200.0,0.0
+VMG,09:10:08,Buy Up,2900.0,3200.0,0.0

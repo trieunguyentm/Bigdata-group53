@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PXT,13:49:18,Sell Down,300.0,3500.0,0.0
+PXT,13:17:01,Sell Down,8500.0,3500.0,0.0
+PXT,13:12:37,Sell Down,300.0,3500.0,0.0
+PXT,13:07:31,Sell Down,18000.0,3500.0,0.0
+PXT,10:36:03,Sell Down,20000.0,3500.0,0.0
+PXT,10:14:04,Sell Down,10000.0,3500.0,0.0
+PXT,09:48:58,Sell Down,200.0,3500.0,-100.0
+PXT,09:13:24,Buy Up,100.0,3600.0,0.0

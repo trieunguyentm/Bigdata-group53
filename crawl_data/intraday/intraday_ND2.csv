@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+ND2,10:45:11,Sell Down,2000.0,30600.0,0.0
+ND2,09:41:21,Buy Up,400.0,30600.0,0.0
+ND2,09:37:03,Buy Up,4500.0,30600.0,0.0

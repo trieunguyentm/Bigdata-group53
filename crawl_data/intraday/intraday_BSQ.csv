@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+BSQ,11:20:15,Buy Up,100.0,19800.0,0.0
+BSQ,10:53:18,Buy Up,200.0,19800.0,0.0
+BSQ,10:35:39,Buy Up,100.0,19800.0,0.0
+BSQ,10:16:46,Buy Up,100.0,19800.0,0.0

@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+MVC,13:17:23,Sell Down,800.0,12400.0,0.0
+MVC,11:22:38,Sell Down,3000.0,12400.0,0.0
+MVC,10:45:47,Sell Down,1000.0,12400.0,200.0
+MVC,10:33:58,Sell Down,10000.0,12200.0,-200.0
+MVC,10:30:46,Sell Down,100.0,12400.0,-100.0
+MVC,09:57:49,Buy Up,1400.0,12500.0,0.0

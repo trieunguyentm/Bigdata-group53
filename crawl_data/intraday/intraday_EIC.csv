@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+EIC,13:06:48,Buy Up,100.0,24800.0,0.0
+EIC,10:44:43,Buy Up,100.0,24800.0,0.0
+EIC,10:44:36,Buy Up,100.0,24800.0,0.0
+EIC,10:44:28,Buy Up,200.0,24800.0,0.0
+EIC,10:44:10,Buy Up,1000.0,24800.0,0.0
+EIC,10:13:37,Buy Up,100.0,24800.0,0.0

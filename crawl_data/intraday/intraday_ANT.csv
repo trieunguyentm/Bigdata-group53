@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+ANT,11:23:49,Buy Up,400.0,9800.0,0.0
+ANT,11:20:33,Buy Up,100.0,9800.0,100.0
+ANT,10:56:35,Sell Down,1000.0,9700.0,0.0

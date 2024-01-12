@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SMN,11:01:22,Sell Down,200.0,13000.0,0.0
+SMN,09:38:51,Sell Down,1500.0,13000.0,0.0
+SMN,09:27:58,Buy Up,2000.0,13000.0,0.0
+SMN,09:25:03,Buy Up,1000.0,13000.0,0.0
+SMN,09:23:53,Buy Up,600.0,13000.0,0.0
+SMN,09:23:37,Sell Down,1300.0,13000.0,0.0
+SMN,09:06:19,Sell Down,500.0,13000.0,0.0

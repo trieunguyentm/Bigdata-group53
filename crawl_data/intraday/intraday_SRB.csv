@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SRB,13:10:48,Sell Down,300.0,2000.0,-100.0
+SRB,13:00:02,Buy Up,200.0,2100.0,0.0
+SRB,11:02:52,Buy Up,700.0,2100.0,-100.0
+SRB,09:48:39,Buy Up,400.0,2200.0,0.0
+SRB,09:22:29,Buy Up,100.0,2200.0,100.0
+SRB,09:00:25,Sell Down,300.0,2100.0,0.0

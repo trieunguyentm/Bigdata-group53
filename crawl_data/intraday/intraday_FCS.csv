@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+FCS,10:30:27,Buy Up,300.0,8400.0,-100.0
+FCS,10:01:20,Buy Up,200.0,8500.0,-500.0
+FCS,09:09:00,Buy Up,200.0,9000.0,0.0
+FCS,09:08:07,Buy Up,100.0,9000.0,0.0

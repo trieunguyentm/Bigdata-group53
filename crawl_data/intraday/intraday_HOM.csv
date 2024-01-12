@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HOM,13:17:23,Buy Up,500.0,4900.0,0.0
+HOM,11:26:55,Buy Up,500.0,4900.0,0.0
+HOM,11:13:24,Buy Up,1000.0,4900.0,0.0
+HOM,09:47:41,Buy Up,100.0,4900.0,0.0
+HOM,09:34:39,Sell Down,1900.0,4900.0,0.0
+HOM,09:26:36,Buy Up,100.0,4900.0,0.0
+HOM,09:18:57,Buy Up,600.0,4900.0,0.0
+HOM,09:17:26,Buy Up,200.0,4900.0,0.0

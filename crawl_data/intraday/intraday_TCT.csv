@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+TCT,10:38:11,Buy Up,100.0,22700.0,0.0
+TCT,10:38:11,Buy Up,300.0,22700.0,0.0
+TCT,10:37:13,Buy Up,200.0,22700.0,100.0
+TCT,10:27:52,Buy Up,100.0,22600.0,0.0
+TCT,10:08:00,Sell Down,900.0,22600.0,0.0
+TCT,09:34:20,Buy Up,300.0,22600.0,0.0
+TCT,09:25:19,Buy Up,100.0,22600.0,0.0

@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+CHP,10:47:18,Buy Up,3000.0,25500.0,100.0
+CHP,10:21:46,Buy Up,700.0,25400.0,50.0
+CHP,10:17:21,Sell Down,200.0,25350.0,-50.0
+CHP,10:15:15,Sell Down,300.0,25400.0,0.0
+CHP,10:13:37,Sell Down,2000.0,25400.0,0.0
+CHP,09:49:49,Sell Down,100.0,25400.0,0.0
+CHP,09:26:29,Sell Down,100.0,25400.0,0.0
+CHP,09:22:52,Buy Up,3000.0,25400.0,0.0

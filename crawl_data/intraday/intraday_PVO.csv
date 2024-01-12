@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PVO,11:10:03,Sell Down,400.0,5300.0,0.0
+PVO,10:25:52,Sell Down,500.0,5300.0,0.0
+PVO,10:02:50,Sell Down,500.0,5300.0,-100.0
+PVO,09:47:04,Buy Up,100.0,5400.0,100.0
+PVO,09:35:26,Sell Down,200.0,5300.0,-100.0
+PVO,09:23:54,Buy Up,100.0,5400.0,0.0
+PVO,09:17:10,Buy Up,100.0,5400.0,0.0

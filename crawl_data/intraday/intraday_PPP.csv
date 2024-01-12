@@ -1,0 +1,5 @@
+ticker,time,orderType,volume,price,prevPriceChange
+PPP,11:16:32,Buy Up,10000.0,16800.0,0.0
+PPP,11:15:09,Buy Up,8400.0,16800.0,0.0
+PPP,10:57:01,Buy Up,1500.0,16800.0,0.0
+PPP,10:37:45,Buy Up,100.0,16800.0,0.0

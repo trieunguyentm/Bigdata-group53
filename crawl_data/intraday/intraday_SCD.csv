@@ -1,0 +1,7 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SCD,10:55:10,Sell Down,1100.0,15000.0,0.0
+SCD,10:43:54,Sell Down,1300.0,15000.0,0.0
+SCD,10:41:39,Sell Down,100.0,15000.0,-500.0
+SCD,09:32:05,Buy Up,1000.0,15500.0,0.0
+SCD,09:25:54,Buy Up,700.0,15500.0,0.0
+SCD,09:25:54,Buy Up,100.0,15500.0,0.0

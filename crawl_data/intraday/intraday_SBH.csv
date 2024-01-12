@@ -1,0 +1,3 @@
+ticker,time,orderType,volume,price,prevPriceChange
+SBH,10:31:55,Sell Down,100.0,55600.0,0.0
+SBH,10:31:38,Sell Down,200.0,55600.0,0.0

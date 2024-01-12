@@ -1,0 +1,9 @@
+ticker,time,orderType,volume,price,prevPriceChange
+LIC,13:37:48,Sell Down,100.0,15600.0,0.0
+LIC,13:15:49,Sell Down,200.0,15600.0,-200.0
+LIC,13:10:47,Buy Up,100.0,15800.0,100.0
+LIC,13:09:51,Buy Up,200.0,15700.0,0.0
+LIC,13:08:30,Buy Up,100.0,15700.0,-100.0
+LIC,13:06:47,Sell Down,100.0,15800.0,0.0
+LIC,13:06:35,Sell Down,100.0,15800.0,800.0
+LIC,11:00:24,Sell Down,300.0,15000.0,0.0

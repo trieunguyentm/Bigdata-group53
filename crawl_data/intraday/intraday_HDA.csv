@@ -1,0 +1,8 @@
+ticker,time,orderType,volume,price,prevPriceChange
+HDA,13:00:04,Sell Down,200.0,4900.0,0.0
+HDA,10:53:42,Sell Down,1000.0,4900.0,-100.0
+HDA,10:32:06,Buy Up,400.0,5000.0,0.0
+HDA,10:24:49,Buy Up,1000.0,5000.0,0.0
+HDA,10:17:34,Buy Up,100.0,5000.0,100.0
+HDA,09:41:49,Sell Down,2100.0,4900.0,0.0
+HDA,09:30:25,Sell Down,300.0,4900.0,0.0

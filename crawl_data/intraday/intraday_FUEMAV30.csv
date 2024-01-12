@@ -1,0 +1,4 @@
+ticker,time,orderType,volume,price,prevPriceChange
+FUEMAV30,09:42:07,Buy Up,200.0,13610.0,10.0
+FUEMAV30,09:31:10,Sell Down,200.0,13600.0,-10.0
+FUEMAV30,09:15:01,Buy Up,1000.0,13610.0,0.0
