@@ -24,3 +24,20 @@
 5. Trục quan hóa dữ liệu
 
 - Lọc dữ liệu dựa theo mã cổ phiếu (ticker), chọn trục ngang là time, trục dọc là volume để biểu diễn khối lượng giao dịch của cổ phiếu theo thời gian
+
+# Batch Processing
+
+## Luồng hoạt động
+
+1. Đẩy dữ liệu lên kafka từ dữ liệu đã được crawl sẵn và đưa vào hadoop
+   
+   - chạy file kafka_consumer.py sau đó chạy file kafka_producer.py
+   - Consumer đọc dữ liệu được producer gửi tới trong topic
+
+2. Xử lí dữ liệu
+   - Mở jupyter_labs và chạy file vnstock.inbpy
+   - Thêm các hàm tính toán chỉ báo nếu cần
+
+3. Lưu dữ liệu vào cassandra
+
+   - Sử dụng jupyter_labs để kết nối spark với cassandra và lưu dữ liệu đã qua xử lí vào.
